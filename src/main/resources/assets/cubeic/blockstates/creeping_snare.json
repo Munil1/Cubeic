@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "armed=true": { "model": "cubeic:block/creeping_snare_armed" },
+    "armed=false": { "model": "cubeic:block/creeping_snare_unarmed" }
+  }
+}

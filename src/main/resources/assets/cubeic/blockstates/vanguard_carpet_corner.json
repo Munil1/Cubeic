@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cubeic:block/vanguard_carpet_corner" },
+    "facing=east": { "model": "cubeic:block/vanguard_carpet_corner" },
+    "facing=south": { "model": "cubeic:block/vanguard_carpet_corner" },
+    "facing=west": { "model": "cubeic:block/vanguard_carpet_corner" }
+  }
+}
